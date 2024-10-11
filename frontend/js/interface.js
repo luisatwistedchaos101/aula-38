@@ -48,4 +48,4 @@ async function renderizarTodos() {
   }
 }
 
-export default renderizarTodos;
+export default new interfaceDoUsuario();
